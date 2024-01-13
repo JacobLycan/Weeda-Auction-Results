@@ -1,0 +1,190 @@
+weeda2005
+# of lots: 8020
+Average lot price was: 60.2
+Most expensive lot was # 1854 and it went for 1800.0 and was purchased by 1672
+Total sales were 482807.0
+Number of new bidders for the year was 491
+Number of unique winners was 491
+ 
+weeda2006
+# of lots: 7840
+Average lot price was: 67.01
+Most expensive lot was # 836 and it went for 2200.0 and was purchased by 1672
+Total sales were 525374.0
+Number of new bidders for the year was 174
+Number of unique winners was 509
+ 
+weeda2007
+# of lots: 7890
+Average lot price was: 71.96
+Most expensive lot was # 2249 and it went for 2825.0 and was purchased by 4303
+Total sales were 567760.0
+Number of new bidders for the year was 134
+Number of unique winners was 466
+ 
+weeda2008
+# of lots: 7690
+Average lot price was: 101.72
+Most expensive lot was # 2758 and it went for 4375.0 and was purchased by 4303
+Total sales were 782213.0
+Number of new bidders for the year was 110
+Number of unique winners was 503
+ 
+weeda2009
+# of lots: 5200
+Average lot price was: 114.31
+Most expensive lot was # 4623 and it went for 4025.0 and was purchased by 4366
+Total sales were 594389.0
+Number of new bidders for the year was 89
+Number of unique winners was 470
+ 
+weeda2010
+# of lots: 4800
+Average lot price was: 114.93
+Most expensive lot was # 2214 and it went for 2775.0 and was purchased by 4303
+Total sales were 551641.0
+Number of new bidders for the year was 81
+Number of unique winners was 476
+ 
+weeda2011
+# of lots: 4600
+Average lot price was: 126.11
+Most expensive lot was # 497 and it went for 2625.0 and was purchased by 4045
+Total sales were 580119.0
+Number of new bidders for the year was 87
+Number of unique winners was 472
+ 
+weeda2012
+# of lots: 4400
+Average lot price was: 125.49
+Most expensive lot was # 3124 and it went for 7175.0 and was purchased by 3501
+Total sales were 552145.0
+Number of new bidders for the year was 71
+Number of unique winners was 476
+ 
+weeda2013
+# of lots: 3600
+Average lot price was: 126.72
+Most expensive lot was # 3306 and it went for 6525.0 and was purchased by 2263
+Total sales were 456185.0
+Number of new bidders for the year was 64
+Number of unique winners was 443
+ 
+weeda2014
+# of lots: 3350
+Average lot price was: 129.78
+Most expensive lot was # 1618 and it went for 2975.0 and was purchased by 4247
+Total sales were 434763.0
+Number of new bidders for the year was 53
+Number of unique winners was 427
+ 
+weeda2015
+# of lots: 3400
+Average lot price was: 151.74
+Most expensive lot was # 1218 and it went for 2725.0 and was purchased by 5322
+Total sales were 515932.0
+Number of new bidders for the year was 58
+Number of unique winners was 410
+ 
+weeda2016
+# of lots: 3000
+Average lot price was: 151.64
+Most expensive lot was # 12 and it went for 3625.0 and was purchased by 5471
+Total sales were 454934.0
+Number of new bidders for the year was 58
+Number of unique winners was 401
+ 
+weeda2017
+# of lots: 3200
+Average lot price was: 143.39
+Most expensive lot was # 1613 and it went for 1950.0 and was purchased by 3908
+Total sales were 458842.0
+Number of new bidders for the year was 56
+Number of unique winners was 409
+ 
+weeda2018
+# of lots: 3200
+Average lot price was: 148.8
+Most expensive lot was # 317 and it went for 4100.0 and was purchased by 3755
+Total sales were 476159.0
+Number of new bidders for the year was 43
+Number of unique winners was 400
+ 
+weeda2019
+# of lots: 3200
+Average lot price was: 147.87
+Most expensive lot was # 2228 and it went for 2475.0 and was purchased by 5614
+Total sales were 473180.0
+Number of new bidders for the year was 66
+Number of unique winners was 413
+ 
+weeda2020
+# of lots: 2600
+Average lot price was: 187.53
+Most expensive lot was # 17 and it went for 3025.0 and was purchased by 3543
+Total sales were 487586.0
+Number of new bidders for the year was 72
+Number of unique winners was 413
+ 
+weeda2021
+# of lots: 2900
+Average lot price was: 184.27
+Most expensive lot was # 19 and it went for 3500.0 and was purchased by 4247
+Total sales were 534376.0
+Number of new bidders for the year was 86
+Number of unique winners was 465
+ 
+weeda2022
+# of lots: 4300
+Average lot price was: 172.7
+Most expensive lot was # 3591 and it went for 3725.0 and was purchased by 6087
+Total sales were 742599.0
+Number of new bidders for the year was 98
+Number of unique winners was 507
+ 
+weeda2023
+# of lots: 5200
+Average lot price was: 159.4
+Most expensive lot was # 992 and it went for 2000.0 and was purchased by 2958
+Total sales were 828867.0
+Number of new bidders for the year was 72
+Number of unique winners was 524
+ 
+weeda2024
+# of lots: 400
+Average lot price was: 156.27
+Most expensive lot was # 139 and it went for 925.0 and was purchased by 6301
+Total sales were 62507.0
+Number of new bidders for the year was 5
+Number of unique winners was 169
+ 
+For 2005 to 2024
+Total sales were 10562378.0
+ Number of lots was 88790
+Number of unique winners was 1968
+ 
+Ten bidders who bought most lots
+#1 Bidder 2299 Won 2091 lots for $183417.0
+#2 Bidder 1672 Won 1625 lots for $205195.0
+#3 Bidder 3613 Won 1499 lots for $90629.0
+#4 Bidder 1858 Won 1181 lots for $107258.0
+#5 Bidder 3266 Won 1130 lots for $128552.0
+#6 Bidder 3912 Won 907 lots for $59889.0
+#7 Bidder 3398 Won 865 lots for $52001.0
+#8 Bidder 163 Won 830 lots for $63700.0
+#9 Bidder 3634 Won 739 lots for $87950.0
+#10 Bidder 4174 Won 706 lots for $76772.0
+The top ten bidders won 11573 lots which is 13.03% of the total
+ 
+Top ten biggest spenders: 
+#1: Bidder 1672 Won 1625 lots for $205195.0
+#2: Bidder 4303 Won 527 lots for $189496.0
+#3: Bidder 2299 Won 2091 lots for $183417.0
+#4: Bidder 4247 Won 531 lots for $156038.0
+#5: Bidder 5614 Won 570 lots for $128907.0
+#6: Bidder 3266 Won 1130 lots for $128552.0
+#7: Bidder 1858 Won 1181 lots for $107258.0
+#8: Bidder 4178 Won 589 lots for $93876.0
+#9: Bidder 3613 Won 1499 lots for $90629.0
+#10: Bidder 3634 Won 739 lots for $87950.0
+The top ten spenders spent a total of 1371318.0 which is 12.98% of the total
